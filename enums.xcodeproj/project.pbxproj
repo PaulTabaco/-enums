@@ -97,6 +97,7 @@
 					DA0AE70F1C38B94E0040E165 = {
 						CreatedOnToolsVersion = 7.2;
 						DevelopmentTeam = 3576WDCD7W;
+						LastSwiftMigration = 0810;
 					};
 				};
 			};
@@ -252,8 +253,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = enums/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = home.enums;
+				PRODUCT_BUNDLE_IDENTIFIER = home.enums2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -263,8 +265,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = enums/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = home.enums;
+				PRODUCT_BUNDLE_IDENTIFIER = home.enums2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -287,6 +290,7 @@
 				DA0AE7241C38B94E0040E165 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
